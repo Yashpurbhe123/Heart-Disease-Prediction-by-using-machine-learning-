@@ -2,6 +2,7 @@
 This project aims to predict heart disease using four machine learning algorithms: Logistic Regression, Random Forest Classifier, K-Neighbors Classifier, and Decision Tree Classifier. By comparing their accuracies, we identify the most effective model for heart disease prediction.
 
 **Key Steps in the Project:**
+
 **1=Data Loading and Exploration:**
 The dataset is loaded and initial exploratory data analysis (EDA) is performed to understand its structure and key statistics.
 
